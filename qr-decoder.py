@@ -1,5 +1,5 @@
 #use pip3 install pyzbar if needed
-#usage: python3 qr_reader_v0.3.py /path/to/images
+#usage: python3 qr-decoder.py /path/to/images
 import os
 import sys
 from pyzbar.pyzbar import decode
