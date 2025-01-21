@@ -1,5 +1,5 @@
 # qr-decoder
-Quickly decode saved QR image files. 
+Quickly decode saved QR image files. Useful if you need to mass decode QR images that you have saved. Supports PNG, JPG, JPEG, BMP, and GIF.
 
 `pip3 install pyzbar`
 ## To Run:
