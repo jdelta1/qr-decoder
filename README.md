@@ -3,4 +3,4 @@ Quickly decode saved QR image files. Useful if you need to mass decode QR images
 ## Uses pyzbar Library
 `pip3 install pyzbar`
 ## Run:
-`python3 qr_reader_v0.3.py /path/to/images`
+`python3 qr-decoder.py /path/to/images`
